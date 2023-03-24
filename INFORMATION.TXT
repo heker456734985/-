@@ -1,0 +1,39 @@
+PL:
+1. Pobierz plik
+2. Uruchom jako administrator
+3. Poczekaj na instalację
+4. Zakończ instalację
+5. Otwórz skrót, który pojawił się na pulpicie
+6. Poczekaj na uruchomienie (pierwszy raz to długie pobieranie)
+7. Podłącz urządzenie Arduino
+8. Zaktualizuj listę urządzeń w aplikacji
+9. Wybierz oprogramowanie z listy (Miner DuinoCoin prev. zainstalowany) lub przesłać swoje
+10. Kliknij "FLASH"
+
+EN:
+1. Download the file
+2. Run as administrator
+3. Wait for the installation
+4. Complete the installation
+5. Open the shortcut that appeared on your desktop
+6. Wait for the launch (the first time is a long download)
+7. Connect your Arduino device
+8. Update the list of devices in the app
+9. Select the firmware from the list (Miner DuinoCoin prev. installed) or upload your
+10. Click on the "FLASH"
+button 11. Wait for the firmware to load
+12. DONE!
+
+RU:
+1. Загрузчите файл
+2. Запустите от имени администратора
+3. Дождитесь установки
+4. Пройдите установку
+5. Откройте ярлык какой появился на вашем рабочем столе
+6. Дождитесь запуска (первый раз долгая загрузка)
+7. Подключите свое устройство Arduino
+8. Обновите список устройств в приложении
+9. Выберите прошивку из списка (Miner DuinoCoin пред. установлен) или же загрузите свою
+10. Нажмите на кнопку "FLASH"
+11. Дождитесь загрузки прошивки
+12. ГОТОВО!
